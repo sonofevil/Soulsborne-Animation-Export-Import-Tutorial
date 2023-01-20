@@ -26,7 +26,7 @@ Install [Blender](https://www.blender.org/).
 
 The 3DS Max version you need depends on the game. If it's Dark Souls Prepare To Die Edition, you'll need 3DS Max 2010 32bit. For later games it's generally safe to assume that FromSoft was using a 3DSMax 64bit version from the year before the game came out, but don't take my word for it. Ask around.
 
-You can get 3DS Max versions starting with 2019 from the Autodesk homepage, but you'll need an account to access the download. If you are a student, you can sign up for a free student license, which is what I did. 2010 still had a 30 day trial without need for signing up, but I'm not sure about current versions. Otherwise, see archive.org link below.
+You can get 3DS Max versions starting with 2019 from the Autodesk homepage, but you'll need an account to access the download. If you are a student, you can sign up for a free student license, which is what I did. 2010 still had a 30 day trial without need for signing up, but I'm not sure about current versions. If you can't use an official download, see archive.org link below.
 
 If you want 3DSMax 2018, follow the instructions in this video: https://www.youtube.com/watch?v=B5KjZglDpmQ
 
