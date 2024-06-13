@@ -1,3 +1,5 @@
+Disclaimer: I no longer remember how to do this, so this will likely never be finished.
+
 # Soulsborne animation export & import tutorial
 
 This tutorial is aimed at teaching you the basics of working with animations in Soulsborne games (DS1,2,3, Sekiro, Bloodborne, Elden Ring). It won't teach you how to modify animations, but rather to get to the point where you have something to modify in the first place. As an example I will use the process of porting an animation from the small character model of Sif in the DLC of Dark Souls PTDE to the big character model of Sif from the main game, which is what I will be doing in Part 2 of this tutorial.
